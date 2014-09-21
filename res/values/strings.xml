@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidDiaryApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_diary">Add Diary</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- string used for main menu -->
+
+    <string name="empty_list">No diary yet. create one?</string>
+    <string name="new_diary_button">New diary</string>
+    <string name="main_menu_title">Friend</string>
+</resources>
